@@ -1,1 +1,1 @@
-# XSS-prevent-2
+Challenge for the XSS prevention quest !
